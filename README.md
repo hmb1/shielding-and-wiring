@@ -13,9 +13,11 @@ Therefore:
 
 So if your list of boxes was:
 
-```2x3x4
+```
+2x3x4
 1x10x1
-5x7x4```
+5x7x4
+```
 
 then the total required provision would be 287 mm<sup>2</sup>.
 
