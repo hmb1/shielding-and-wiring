@@ -31,6 +31,8 @@ Therefore:
 * a box with dimensions 2x3x4 has volume of `2*3*4` = 24 mm<sup>3</sup> and shortest circumference of `2*2 + 2*3` = 10 mm, so it needs a total of 34 mm of wire
 * a box with dimensions 1x10x1 has volume of `1*10*1` = 10 mm<sup>3</sup> and shortest circumference of `2*1 + 2*1` = 4 mm, so it needs a total of 14 mm of wire
 * a box with dimensions 5x7x4 has volume of `5*7*4` = 140 mm<sup>3</sup> and shortest circumference of `2*4 + 2*5` = 18 mm, so it needs a total of 158 mm of wire
+
+
 So with the same list of boxes as above your total required provision would be 206 mm.
 
-Please write some code to calculates the required provision of wiring for a group of boxes.  You can use the same example inputs again, and we’ve provided some expected results for this too.
+Please write some code to calculate the required provision of wiring for a group of boxes.  You can use the same example inputs again -- we’ve provided some expected results for this too.
