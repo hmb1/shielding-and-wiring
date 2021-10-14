@@ -21,7 +21,7 @@ So if your list of boxes was:
 
 then the total required provision would be 287 mm<sup>2</sup>.
 
-Please write some code that calculates a total required provision of shielding in mm<sup>2</sup> for a group of boxes.  Box size is defined as 3 numbers separated by x.  There are several example inputs provided for you to try out, and we’ve also provided some expected results to help you check your code.
+Please write some code that calculates a total required provision of shielding in mm<sup>2</sup> for a group of boxes.  Box size is defined as 3 numbers separated by x.  There are several example inputs provided for you to try out -- see the files in this repo called [example1.txt](example1.txt), [example2.txt](example2.txt), and [example3.txt](example3.txt). We’ve also provided some expected results to help you check your code, in the file called [expected-results.md](expected-results.md).
 
 ## Part Two
 
